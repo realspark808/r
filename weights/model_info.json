@@ -1,0 +1,155 @@
+{
+	"Spark": {
+		"enable": true,
+		"name": "Spark",
+        "title": "Spark",
+        "cover": "Cover.png",
+		"feature_retrieval_library": "added_IVF2067_Flat_nprobe_1.index",
+		"feature_file": "total_fea.npy",
+		"author":"Spark"
+    },
+	"Tony": {
+		"enable": true,
+		"name": "Tony",
+        "title": "Tony",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF2067_Flat_nprobe_1.index",
+		"feature_file": "total_fea.npy",
+		"author":"Spark"
+    },
+	"nahida-jp": {
+		"enable": false,
+		"name": "nahida-jp",
+        "title": "Genshin Impact - Nahida",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF265_Flat_nprobe_5.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"hutao-jp": {
+		"enable": false,
+		"name": "hutao-jp",
+        "title": "Genshin Impact - Hutao",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF265_Flat_nprobe_5.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"raiden-jp": {
+		"enable": false,
+		"name": "raiden-jp",
+        "title": "Genshin Impact - Raiden",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF783_Flat_nprobe_7.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"yae-jp": {
+		"enable": false,
+		"name": "yae-jp",
+        "title": "Genshin Impact - Yae Miko",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF935_Flat_nprobe_1.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"kazuha-jp": {
+		"enable": false,
+		"name": "kazuha-jp",
+        "title": "Genshin Impact - Kazuha",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF677_Flat_nprobe_7.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"childe-jp": {
+		"enable": false,
+		"name": "childe-jp",
+        "title": "Genshin Impact - Childe",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF428_Flat_nprobe_6.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"wanderer-jp": {
+		"enable": false,
+		"name": "wanderer-jp",
+        "title": "Genshin Impact - Wanderer",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF128_Flat_nprobe_4.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"xiao-jp": {
+		"enable": false,
+		"name": "xiao-jp",
+        "title": "Genshin Impact - Xiao",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF233_Flat_nprobe_5.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"noah": {
+		"enable": false,
+		"name": "noah",
+        "title": "Ariel Noah",
+        "cover": "cover.jpeg",
+		"feature_retrieval_library": "added_IVF467_Flat_nprobe_6.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"anji": {
+		"enable": false,
+		"name": "anji",
+        "title": "Anji Manji",
+        "cover": "cover.jpeg",
+		"feature_retrieval_library": "added_IVF198_Flat_nprobe_4.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"ariana": {
+		"enable": false,
+		"name": "ariana",
+        "title": "Ariana Grande",
+        "cover": "cover.jpeg",
+		"feature_retrieval_library": "added_IVF133_Flat_nprobe_4.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"once": {
+		"enable": false,
+		"name": "once",
+        "title": "Once",
+        "cover": "cover.jpeg",
+		"feature_retrieval_library": "added_IVF229_Flat_nprobe_5.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"rie": {
+		"enable": false,
+		"name": "rie",
+        "title": "Rie Tanaka",
+        "cover": "cover.png",
+		"feature_retrieval_library": "added_IVF325_Flat_nprobe_5.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"aerith": {
+		"enable": false,
+		"name": "aerith",
+        "title": "Aerith",
+        "cover": "cover.jpg",
+		"feature_retrieval_library": "trained_IVF3933_Flat_nprobe_1_5.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    },
+	"marel": {
+		"enable": false,
+		"name": "marel",
+        "title": "Marel",
+        "cover": "cover.jpg",
+		"feature_retrieval_library": "added_IVF418_Flat_nprobe_1.index",
+		"feature_file": "total_fea.npy",
+		"author":"Ardha"
+    }
+}
