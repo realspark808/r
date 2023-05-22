@@ -18,13 +18,13 @@
 		"author":"Spark"
     },
 	"nahida-jp": {
-		"enable": false,
-		"name": "nahida-jp",
-        "title": "Genshin Impact - Nahida",
+		"enable": true,
+		"name": "Daian",
+        "title": "Daian",
         "cover": "cover.png",
-		"feature_retrieval_library": "added_IVF265_Flat_nprobe_5.index",
+		"feature_retrieval_library": "added_IVF248_Flat_nprobe_1.index",
 		"feature_file": "total_fea.npy",
-		"author":"Ardha"
+		"author":"Spark"
     },
 	"hutao-jp": {
 		"enable": false,
