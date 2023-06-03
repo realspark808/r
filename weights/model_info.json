@@ -26,14 +26,14 @@
 		"feature_file": "total_fea.npy",
 		"author":"Spark"
     },
-	"hutao-jp": {
-		"enable": false,
-		"name": "hutao-jp",
-        "title": "Genshin Impact - Hutao",
+	"Suculet": {
+		"enable": true,
+		"name": "Suculet",
+        "title": "Suculet",
         "cover": "cover.png",
-		"feature_retrieval_library": "added_IVF265_Flat_nprobe_5.index",
+		"feature_retrieval_library": "added_IVF407_Flat_nprobe_1.index",
 		"feature_file": "total_fea.npy",
-		"author":"Ardha"
+		"author":"Spark"
     },
 	"raiden-jp": {
 		"enable": false,
