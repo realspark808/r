@@ -74,3 +74,4 @@ weights/yae-jp/trained_IVF935_Flat_nprobe_1.index filter=lfs diff=lfs merge=lfs 
 weights/yae-jp/added_IVF935_Flat_nprobe_1.index filter=lfs diff=lfs merge=lfs -text
 weights/Spark/added_IVF2067_Flat_nprobe_1.index filter=lfs diff=lfs merge=lfs -text
 weights/Daian/added_IVF248_Flat_nprobe_1.index filter=lfs diff=lfs merge=lfs -text
+weights/Suculet/added_IVF407_Flat_nprobe_1.index filter=lfs diff=lfs merge=lfs -text
