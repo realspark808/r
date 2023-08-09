@@ -11,4 +11,3 @@ license: mit
 duplicated_from: Spark808/rvc
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
