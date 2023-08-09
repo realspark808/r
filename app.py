@@ -1,3 +1,44 @@
+Hugging Face's logo
+Hugging Face
+ 
+Models
+Datasets
+Spaces
+Docs
+Solutions
+Pricing
+
+
+
+ 
+Spaces:
+
+Spark808
+/
+rvc
+
+private
+
+Logs
+App
+
+Files
+Community
+Settings
+rvc
+/
+app.py
+Spark808's picture
+Spark808
+Update app.py
+298fb30
+3 months ago
+raw
+history
+blame
+edit
+delete
+8.17 kB
 import os
 import json
 import argparse
